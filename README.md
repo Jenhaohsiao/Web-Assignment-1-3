@@ -2,7 +2,7 @@
 
 ##Create a "facebook sign up page"
 
-*   It doesn't request exactly the same image or working with real facebook sign up page.
+*   It doesn't request exactly the same image or wording with real facebook sign up page.
 *   No javascript and any framework using.
 *   It could be used in any screen size greater than 600px. 
  
