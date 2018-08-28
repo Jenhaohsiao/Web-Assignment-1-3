@@ -1,0 +1,113 @@
+#login-page {
+    font-family: 'Rubik', 'Oxygen', sans-serif;
+    font-weight: 100;
+}
+
+#login-section {
+    background-color: #3B5998;
+    height: 82px;
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.page-content-range {
+    min-width: 600px;
+    max-width: 1000px;
+}
+
+#logo {
+    padding-top: 20px;
+    font-size: 45px;
+    font-weight: 900;
+    font-family: 'Teko', sans-serif;
+    width: 60%;
+}
+
+.login-div {
+    padding-top: 17px;
+    width: 15%;
+}
+
+.click-div {
+    padding-top: 37px;
+    width: 10%;
+}
+
+.login-filed {
+    padding-top: 3px;
+}
+
+.login-button {
+    background-color: #3a84bd;
+    color: #ffffff;
+    height: 20px;
+    border: 1px solid #172955;
+}
+
+.input-text {
+    background-color: rgb(255, 221, 110);
+    height: 18px;
+}
+
+#forgot-account {
+    padding-top: 5px;
+    color: #8dc2fa;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-clear {
+    clear: both;
+}
+
+.align_right {
+    text-align: right;
+}
+
+.align_center {
+    text-align: center;
+}
+
+.float-clear {
+    clear: both;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.no-margin-top {
+    margin-top: 0;
+}
+
+.no-margin-bottom {
+    margin-bottom: 0;
+}
+
+.margin-auto-LR {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.margin-auto-TB {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#sign-up-section {
+    background-color: #ededed;
+}
+
+#sign-up-section-title {
+    font-size: 35px;
+}
