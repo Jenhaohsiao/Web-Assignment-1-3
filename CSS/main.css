@@ -1,16 +1,16 @@
-#login-page {
+#login_page {
     font-family: 'Rubik', 'Oxygen', sans-serif;
     font-weight: 100;
 }
 
-#login-section {
+#login_section {
     background-color: #3B5998;
     height: 82px;
     color: #ffffff;
     font-size: 12px;
 }
 
-.page-content-range {
+.page_content_range {
     min-width: 600px;
     max-width: 1000px;
 }
@@ -23,46 +23,46 @@
     width: 60%;
 }
 
-.login-div {
+.login_div {
     padding-top: 17px;
     width: 15%;
 }
 
-.click-div {
+.click_div {
     padding-top: 37px;
     width: 10%;
 }
 
-.login-filed {
+.login_filed {
     padding-top: 3px;
 }
 
-.login-button {
+.login_button {
     background-color: #3a84bd;
     color: #ffffff;
     height: 20px;
     border: 1px solid #172955;
 }
 
-.input-text {
+.input_text {
     background-color: rgb(255, 221, 110);
     height: 18px;
 }
 
-#forgot-account {
+#forgot_account {
     padding-top: 5px;
     color: #8dc2fa;
 }
 
-.float-right {
+.float_right {
     float: right;
 }
 
-.float-left {
+.float_left {
     float: left;
 }
 
-.float-clear {
+.float_clear {
     clear: both;
 }
 
@@ -70,44 +70,106 @@
     text-align: right;
 }
 
+.align_left {
+    text-align: left;
+}
+
 .align_center {
     text-align: center;
 }
 
-.float-clear {
+.vertical-middle {
+    vertical-align: middle;
+}
+
+.float_clear {
     clear: both;
 }
 
-.no-padding {
+.no_padding {
     padding: 0;
 }
 
-.no-margin {
+.no_margin {
     margin: 0;
 }
 
-.no-margin-top {
+.no_margin_top {
     margin-top: 0;
 }
 
-.no-margin-bottom {
+.no_margin_bottom {
     margin-bottom: 0;
 }
 
-.margin-auto-LR {
+.margin_auto_LR {
     margin-left: auto;
     margin-right: auto;
 }
 
-.margin-auto-TB {
+.margin_auto_TB {
     margin-top: auto;
     margin-bottom: auto;
 }
 
-#sign-up-section {
-    background-color: #ededed;
+#sign_up_section {
+    background-color: #eeeeee;
+    height: 584px;
 }
 
-#sign-up-section-title {
+#sign_up_section_title {
+    font-size: 28px;
+    font-weight: 900;
+    width: 408px;
+    padding: 42px 0 24px 0;
+}
+
+#body_left {
+    width: 565px;
+    height: 378px;
+    padding: 20px 0px;
+}
+
+#body_right {
+    width: 40%;
+    height: 543px;
+    padding: 20px 0px;
+}
+
+.body_left_item {
+    height: 56px;
+    margin-top: 14px;
+    padding-bottom: 10px;
+}
+
+.body_left_item-icon {
+    font-size: 50px;
+    color: rgb(158, 166, 187);
+    width: 75px;
+}
+
+.body_left_item_text-section {
+    margin: 15px 0 0 0;
+}
+
+.body_left_item_text {
+    color: rgb(157, 150, 150);
+    font-weight: 100;
+}
+
+#sign-up-title {
     font-size: 35px;
+    font-weight: 900;
+}
+
+#sing_up_form input {
+    margin: 5px 0;
+    padding: 7px;
+    font-size: 18px;
+    border: 1px solid #8f929a;
+    border-radius: 5px;
+}
+
+#birthday_section {
+    margin: 15px 0;
 }
