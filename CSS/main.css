@@ -173,3 +173,17 @@
 #birthday_section {
     margin: 15px 0;
 }
+
+#sing_up_form select {
+    height: 30px;
+    font-size: 14px;
+}
+
+#sing_up_form option {
+    padding: 15px 3px;
+}
+
+.body-right-text {
+    font-size: 12px;
+    color: #285a77;
+}
