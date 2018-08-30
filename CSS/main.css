@@ -187,3 +187,33 @@
     font-size: 12px;
     color: #285a77;
 }
+
+.gender {
+    margin: 0px 20px 0px 0px;
+    font-size: 18px;
+}
+
+.gender-text {
+    margin: 11px 0px;
+    width: 316px;
+}
+
+.form-submit {
+    background: linear-gradient(rgb(103, 174, 85), rgb(87, 136, 67));
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 10px 0 0 0;
+    padding: 7px 20px;
+    font-size: 20px;
+    width: 194px;
+}
+
+.body-hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid rgb(184, 184, 184);
+    margin: 25px 0;
+    padding: 0;
+}
